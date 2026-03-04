@@ -1,5 +1,5 @@
 
-
+# location of data
 /home/sgromme/source/1brc/data/measurements.txt
 
 
